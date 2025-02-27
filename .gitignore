@@ -1,1 +1,29 @@
+# Virtual environment
 venv/
+.env
+
+# macOS system files
+.DS_Store
+
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Databases
+*.sqlite3
+*.db
+
+# Results or temporary files
+results/
+*.out
+*.tmp
+
+# VS Code settings
+.vscode/
