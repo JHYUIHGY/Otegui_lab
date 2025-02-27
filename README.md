@@ -50,5 +50,5 @@ Otegui_lab/
 This repository can be pulled, but only the owner and authorized collaborators can push updates. If you have suggestions, feel free to reach out.
 
 ## Contact
-For questions or access requests, please contact **Yuxin Duan**.
+For questions or access requests, please contact **Yuxin Duan** at yduan47@wisc.edu.
 
